@@ -1,0 +1,2 @@
+Add confetti to the site, maybe with React?
+Redesign
